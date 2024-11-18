@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a0e7bdc1a3a63949a0907ae5468bbe2, type: 3}
+  m_Name: AssetsCfg
+  m_EditorClassIdentifier: 
+  blueTile:
+    m_AssetGUID: ee9364f21b4391749baaf01d412fa178
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  greenTile:
+    m_AssetGUID: c289d931741601c4ea8e2c994b99d0e7
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  orangeTile:
+    m_AssetGUID: 24ec43a811a734d499288deca3986446
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  purpleTile:
+    m_AssetGUID: e29523150b9760e4e8a5699fba53effa
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  redTile:
+    m_AssetGUID: 540b2650e8e1a404eab9b79020e06f62
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  yellowTile:
+    m_AssetGUID: ead3cd82b87134d42ab99bde6136e075
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
